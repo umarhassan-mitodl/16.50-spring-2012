@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ]
+  ],
+  "legacy_uid": "4a7a8607-7b8f-e4ed-6121-16f3c61394ae",
+  "instructors": {
+    "content": [
+      "292dadae-2775-334e-76d0-69610178bb29"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "715c9294-7e20-3669-c550-882dc974afa4",
+    "website": "16-50-introduction-to-propulsion-systems-spring-2012"
+  },
+  "course_title": "Introduction to Propulsion Systems",
+  "course_description": "This course presents aerospace propulsive devices as systems, with functional requirements and engineering and environmental limitations along with requirements and limitations that constrain design choices. Both air-breathing and rocket engines are covered, at a level which enables rational integration of the propulsive system into an overall vehicle design. Mission analysis, fundamental performance relations, and exemplary design solutions are presented.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.50",
+  "course_image_thumbnail": {
+    "content": "82a2fcb6-ab8c-5e8b-db07-1e2fdbae35b8",
+    "website": "16-50-introduction-to-propulsion-systems-spring-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "467c58e1-90a6-4a2c-8f6e-f676660518e7",
+  "site_short_id": "16.50-spring-2012",
+  "site_url_path": "courses/16-50-introduction-to-propulsion-systems-spring-2012",
+  "title": "Course Metadata"
+}
