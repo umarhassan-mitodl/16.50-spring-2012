@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, prerequisites, learning objectives, measurable outcomes, course
   materials, subject content and rationale, pedagogical structure, grading, and the
   schedule of lecture topics, quizzes, and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -56,9 +58,9 @@ Course Materials
 
 ### Recommended Texts
 
-{{% resource_link "2f6ccb30-8d78-447a-8f36-4a6d0fe84705" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kerrebrock, J. L. {{% resource_link "2f6ccb30-8d78-447a-8f36-4a6d0fe84705" "_Aircraft Engines and Gas Turbines_" %}}. 2nd ed. MIT Press, 1992. ISBN: 9780262111621.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262111621) Kerrebrock, J. L. [_Aircraft Engines and Gas Turbines_](https://mitpress.mit.edu/9780262111621). 2nd ed. MIT Press, 1992. ISBN: 9780262111621.
 
-Sutton, G. P., and O. Biblarz. _Rocket Propulsion Elements_. 7th ed. Wiley Interscience, 2000. ISBN: 9780471326427. \[Preview with {{% resource_link "ac12be9e-1052-489a-976d-cfd9f1dab053" "Google Books" %}}\]
+Sutton, G. P., and O. Biblarz. _Rocket Propulsion Elements_. 7th ed. Wiley Interscience, 2000. ISBN: 9780471326427. \[Preview with [Google Books](http://books.google.com/books?id=LQbDOxg3XZcC&pg=frontcover#v=onepage)\]
 
 ### Lecture Notes
 

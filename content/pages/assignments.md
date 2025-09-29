@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes the homework assignments and solutions for the
   course including an optional assignment on heat transfer.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

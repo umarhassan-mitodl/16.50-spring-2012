@@ -3,6 +3,8 @@ content_type: page
 description: 'This section provides the schedule of lecture topics and includes select
   lecture notes for the course excluding lessons on aircraft propulsion and jet engine
   rotordynamics. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

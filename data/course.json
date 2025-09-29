@@ -23,6 +23,7 @@
     "website": "16-50-introduction-to-propulsion-systems-spring-2012"
   },
   "course_title": "Introduction to Propulsion Systems",
+  "hide_download": true,
   "course_description": "This course presents aerospace propulsive devices as systems, with functional requirements and engineering and environmental limitations along with requirements and limitations that constrain design choices. Both air-breathing and rocket engines are covered, at a level which enables rational integration of the propulsive system into an overall vehicle design. Mission analysis, fundamental performance relations, and exemplary design solutions are presented.\n",
   "department_numbers": [
     "16"
@@ -33,6 +34,7 @@
     "content": "82a2fcb6-ab8c-5e8b-db07-1e2fdbae35b8",
     "website": "16-50-introduction-to-propulsion-systems-spring-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
