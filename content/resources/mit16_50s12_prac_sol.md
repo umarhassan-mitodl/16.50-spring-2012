@@ -4,8 +4,6 @@ description: This resource contains information regarding practice mid-term solu
 file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/0bfe3535a8503d7cbf384b314cba7db1_MIT16_50S12_prac_sol.pdf
 file_size: 91307
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

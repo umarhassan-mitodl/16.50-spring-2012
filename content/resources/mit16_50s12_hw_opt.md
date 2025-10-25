@@ -4,8 +4,6 @@ description: This resource contains information regarding optional heat transfer
 file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/7b6e79dfc944a97a3d19827b8f13e061_MIT16_50S12_hw_opt.pdf
 file_size: 213879
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

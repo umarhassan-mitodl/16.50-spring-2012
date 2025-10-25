@@ -4,8 +4,6 @@ description: This resource contains information regarding 2011 mid-term quiz.
 file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/05b9ef72957d47f6ab4031cb2233fb56_MIT16_50S12_mid_quiz.pdf
 file_size: 1145320
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

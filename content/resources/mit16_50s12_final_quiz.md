@@ -4,8 +4,6 @@ description: This resource contains information regarding 2011 final quiz.
 file: /courses/16-50-introduction-to-propulsion-systems-spring-2012/1ca6a489d0cebb85b9b7ce2d4a5819aa_MIT16_50S12_final_quiz.pdf
 file_size: 1058972
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
