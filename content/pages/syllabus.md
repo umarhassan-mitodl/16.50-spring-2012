@@ -56,9 +56,9 @@ Course Materials
 
 ### Recommended Texts
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262111621) Kerrebrock, J. L. [_Aircraft Engines and Gas Turbines_](https://mitpress.mit.edu/9780262111621). 2nd ed. MIT Press, 1992. ISBN: 9780262111621.
+{{% resource_link "36a5dbe1-e4f2-4889-b845-1321eaa1d0d0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kerrebrock, J. L. {{% resource_link "36a5dbe1-e4f2-4889-b845-1321eaa1d0d0" "_Aircraft Engines and Gas Turbines_" %}}. 2nd ed. MIT Press, 1992. ISBN: 9780262111621.
 
-Sutton, G. P., and O. Biblarz. _Rocket Propulsion Elements_. 7th ed. Wiley Interscience, 2000. ISBN: 9780471326427. \[Preview with [Google Books](http://books.google.com/books?id=LQbDOxg3XZcC&pg=frontcover#v=onepage)\]
+Sutton, G. P., and O. Biblarz. _Rocket Propulsion Elements_. 7th ed. Wiley Interscience, 2000. ISBN: 9780471326427. \[Preview with {{% resource_link "93112e47-4903-4e00-bc3b-17b53ca9dd2c" "Google Books" %}}\]
 
 ### Lecture Notes
 
